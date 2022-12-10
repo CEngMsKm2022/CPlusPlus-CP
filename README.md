@@ -1,3 +1,0 @@
-#CP
-
-Computer Programming
