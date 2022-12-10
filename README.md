@@ -1,3 +1,3 @@
-* CP *
+#CP
 
 Computer Programming
