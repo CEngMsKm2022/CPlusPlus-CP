@@ -2,6 +2,6 @@
 
 Computer Programming
 
-project*.cpp
+* P.cpp
 
-P*.cpp
+Project.cpp
